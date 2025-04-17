@@ -12,4 +12,4 @@ mkdir ~/downloads
 
 # copy dotfiles
 cp -R ../configs/.profile ~/.profile
-cp -R ../configs/.configs ~/
+cp -R ../configs/.config ~/
